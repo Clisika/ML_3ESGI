@@ -1,0 +1,4 @@
+Q1. La silhouette est maximale pour k = 2 ce qui suggère 2 groupes mais on retient k = 3 car on sait qu'il y a 3 espèces réelles
+Q2. L'espèce la mieux trouvée est Setosa, mais confond Versicolor et Virginica.
+Q3. Petal Lenght et Width
+Q4. 
